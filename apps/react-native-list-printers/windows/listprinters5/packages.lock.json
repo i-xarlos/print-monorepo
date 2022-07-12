@@ -137,6 +137,9 @@
           "Microsoft.NETCore.UniversalWindowsPlatform": "6.2.9"
         }
       },
+      "moduleoauthdll": {
+        "type": "Project"
+      },
       "moduleprinters": {
         "type": "Project",
         "dependencies": {
@@ -148,7 +151,8 @@
         "dependencies": {
           "Microsoft.NETCore.UniversalWindowsPlatform": "6.2.9",
           "Microsoft.ReactNative": "1.0.0",
-          "Microsoft.ReactNative.Managed": "1.0.0"
+          "Microsoft.ReactNative.Managed": "1.0.0",
+          "ModuleOAuthDLL": "1.0.0"
         }
       },
       "rnscreens": {

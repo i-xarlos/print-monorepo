@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QfKQqqPo0P6FT5iK7JYseieQ4BO2ThxYU/Jun4Xtajpghizw/iw5vaorVryb7EaTN5sDeLw7tX+rLSpRjCk0yg==",
+  "dgSpecHash": "oGUqcxclywAsUeeu5R0RresLqVvf0kq13FWLiF/60D+NvYVC5p9ttjVWRfw0O750f8DqtrKaxX+xc6rWviHANA==",
   "success": true,
-  "projectFilePath": "C:\\Proj\\print-repo\\libs\\OAuth\\OAuth\\OAuth.csproj",
+  "projectFilePath": "C:\\Proj\\print-repo\\libs\\ModuleOAuthDLL\\ModuleOAuthDLL\\ModuleOAuthDLL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\GilCarlo\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\GilCarlo\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"

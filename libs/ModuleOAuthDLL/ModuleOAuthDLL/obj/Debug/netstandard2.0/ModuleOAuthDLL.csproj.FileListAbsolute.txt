@@ -1,0 +1,10 @@
+C:\Proj\print-repo\libs\ModuleOAuthDLL\ModuleOAuthDLL\bin\Debug\netstandard2.0\ModuleOAuthDLL.deps.json
+C:\Proj\print-repo\libs\ModuleOAuthDLL\ModuleOAuthDLL\bin\Debug\netstandard2.0\ModuleOAuthDLL.dll
+C:\Proj\print-repo\libs\ModuleOAuthDLL\ModuleOAuthDLL\bin\Debug\netstandard2.0\ModuleOAuthDLL.pdb
+C:\Proj\print-repo\libs\ModuleOAuthDLL\ModuleOAuthDLL\obj\Debug\netstandard2.0\ModuleOAuthDLL.csproj.AssemblyReference.cache
+C:\Proj\print-repo\libs\ModuleOAuthDLL\ModuleOAuthDLL\obj\Debug\netstandard2.0\ModuleOAuthDLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proj\print-repo\libs\ModuleOAuthDLL\ModuleOAuthDLL\obj\Debug\netstandard2.0\ModuleOAuthDLL.AssemblyInfoInputs.cache
+C:\Proj\print-repo\libs\ModuleOAuthDLL\ModuleOAuthDLL\obj\Debug\netstandard2.0\ModuleOAuthDLL.AssemblyInfo.cs
+C:\Proj\print-repo\libs\ModuleOAuthDLL\ModuleOAuthDLL\obj\Debug\netstandard2.0\ModuleOAuthDLL.csproj.CoreCompileInputs.cache
+C:\Proj\print-repo\libs\ModuleOAuthDLL\ModuleOAuthDLL\obj\Debug\netstandard2.0\ModuleOAuthDLL.dll
+C:\Proj\print-repo\libs\ModuleOAuthDLL\ModuleOAuthDLL\obj\Debug\netstandard2.0\ModuleOAuthDLL.pdb

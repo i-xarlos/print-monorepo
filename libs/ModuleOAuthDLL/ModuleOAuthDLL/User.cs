@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace ModuleOAuthDLL
+﻿namespace ModuleOAuthDLL
 {
     public class User
     {

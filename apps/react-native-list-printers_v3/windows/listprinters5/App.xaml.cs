@@ -28,6 +28,8 @@ namespace listprinters5
             Microsoft.ReactNative.Managed.AutolinkedNativeModules.RegisterAutolinkedNativeModulePackages(PackageProviders); // Includes any autolinked modules
 
             PackageProviders.Add(new ReactPackageProvider());
+           // PackageProviders.Add(new ReactNativeModuleUser.ReactPackageProvider());
+
 
             InitializeComponent();
         }
